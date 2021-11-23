@@ -3,6 +3,9 @@
     "comments": true
   },
   "rules": {
+    "@proofdict/proofdict": {
+      "dictURL": "https://takasp.github.io/proof-dictionary/"
+    },
     "preset-ja-spacing": {
       "ja-space-between-half-and-full-width": {
         "space": "always"
